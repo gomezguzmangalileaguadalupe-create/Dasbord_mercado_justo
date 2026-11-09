@@ -1,8 +1,8 @@
 gradio
 pandas
 numpy
+openpyxl
 plotly
-scikit-learn
 folium
 networkx
-openpyxl
+scikit-learn
